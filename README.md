@@ -21,14 +21,14 @@
 💡 Useful Git Tips
 📜 License
 
-
-🌑 Introduction
+ 
+# 🌑 Introduction
 
 🗣️ Git is a powerful version control system that enables efficient team collaboration.This guide provides essential commands and workflows to streamline teamwork, ensuring your projects run smoothly.
 
-## 🛠️ Basic Git Commands
+# 🛠️ Basic Git Commands
 
-### Initialize Repository
+## Initialize Repository
 
 ```bash
 git init
@@ -38,7 +38,7 @@ git init
 🗣️ Initialize a new Git repository in the current directory.
 
 
-🔹 Clone Repository
+## 🔹 Clone Repository
 ```bash
 git clone https://github.com/username/repository.git
 ```
@@ -46,7 +46,7 @@ git clone https://github.com/username/repository.git
 🗣️ Clone a remote repository to your local machine.
 
 
-🔹 Check Status
+## 🔹 Check Status
 ```bash
 git status
 ```
@@ -54,14 +54,14 @@ git status
 🗣️ Check the current status of files in the working directory.
 
 
-🔹 Add Files
+## 🔹 Add Files
 ```bash
 git add .
 
 ```
 
-
-🔹 Commit Changes
+ 
+## 🔹 Commit Changes
 ```bash
 git commit -m "Add feature or fix bug"
 
@@ -71,7 +71,7 @@ git commit -m "Add feature or fix bug"
 
 🤝 Team Collaboration Workflow
 
-🔸 Create New Branch
+## 🔸 Create New Branch
 ```bash
 git checkout -b feature-branch
 ```
@@ -79,7 +79,7 @@ git checkout -b feature-branch
 🗣️ Create and switch to a new branch for your feature or fix.
 
 
-🔸 Pull Latest Changes
+## 🔸 Pull Latest Changes
 ```bash
 git pull origin main
 ```
@@ -87,7 +87,7 @@ git pull origin main
 🗣️ Pull and merge the latest changes from the main branch to avoid conflicts.
 
 
-🔸 Push Changes
+## 🔸 Push Changes
 ```bash
 git push origin feature-branch
 ```
@@ -95,7 +95,7 @@ git push origin feature-branch
 🗣️ Push your local branch to the remote repository.
 
 
-🔸 Create Pull Request
+## 🔸 Create Pull Request
 # Done via GitHub interface
 
 
