@@ -93,7 +93,7 @@ _Push your local branch to remote._
 ---
 
 # 📜 License
-MIT License © [Your Name]
+MIT License ©
 
 ---
 
