@@ -7,7 +7,7 @@ REM اضافه کردن همه تغییرات
 git add .
 
 REM کامیت با پیام ثابت
-git commit -m "update the content"
+git commit -m "Add generate.bat script"
 
 REM پوش کردن به شاخه فعلی
 git push
