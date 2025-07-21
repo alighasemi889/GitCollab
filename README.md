@@ -152,15 +152,22 @@ git stash pop
 
 🗣️ Temporarily save uncommitted changes and restore them later.
 
-
 # 💡 Useful Git Tips
 
+- **Commit Small and Often:**  
+  Break changes into small, logical commits for easier review.
 
-Commit Small and Often: Break changes into small, logical commits for easier review.
-Pull Before Push: Always pull updates to avoid conflicts.
-Clear Commit Messages: Use descriptive messages like "Add user login feature" instead of "Update".
-Use .gitignore: Exclude unnecessary files (e.g., node_modules, .env).
-Backup with Stash: Use git stash to save work-in-progress before switching branches.
+- **Pull Before Push:**  
+  Always pull updates to avoid conflicts.
+
+- **Clear Commit Messages:**  
+  Use descriptive messages like "Add user login feature" instead of vague ones.
+
+- **Use .gitignore:**  
+  Exclude unnecessary files (e.g., `node_modules`, `.env`) from version control.
+
+- **Backup with Stash:**  
+  Use `git stash` to save work-in-progress before switching branches.
 
 
 # 📜 License
