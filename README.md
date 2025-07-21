@@ -15,10 +15,15 @@
 📚 Table of Contents
 
 🌑 Introduction
+
 🛠️ Basic Git Commands
+
 🤝 Team Collaboration Workflow
+
 🔄 Advanced Git Operations
+
 💡 Useful Git Tips
+
 📜 License
 
  
