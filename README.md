@@ -12,19 +12,19 @@
 
 
 
-📚 Table of Contents
+# 📚 Table of Contents
 
-🌑 Introduction
+## 🌑 Introduction
 
-🛠️ Basic Git Commands
+## 🛠️ Basic Git Commands
 
-🤝 Team Collaboration Workflow
+## 🤝 Team Collaboration Workflow
 
-🔄 Advanced Git Operations
+## 🔄 Advanced Git Operations
 
-💡 Useful Git Tips
+## 💡 Useful Git Tips
 
-📜 License
+##  📜 License
 
  
 # 🌑 Introduction
